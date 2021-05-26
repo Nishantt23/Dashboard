@@ -1,2 +1,2 @@
-# Dashboard
-Responsive Dashboard (with Dark Mode)
+# Responsive Dashboard
+Responsive Dashboard made with HTML, CSS and JavaScript.
