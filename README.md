@@ -1,5 +1,5 @@
 # Responsive Dashboard
-Responsive Dashboard made with HTML, CSS and JavaScript.
+Basic Dashboard made with HTML, CSS and JavaScript.
 
 ## Resources
   * Boxicons: https://boxicons.com
